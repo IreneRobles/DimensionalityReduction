@@ -1,0 +1,10 @@
+name = "DimensionalityReduction"
+uuid = "71c6605e-6f67-4832-bc96-37bab23dc7d8"
+authors = ["Irene Robles Rebollo <irenerobles93@gmail.com>"]
+version = "0.1.0"
+
+[deps]
+DataFrames = "a93c6f00-e57d-5684-b7b6-d8193f3e46c0"
+Distances = "b4f34e82-e78d-54a5-968a-f98e89d6e8f7"
+MultivariateStats = "6f286f6a-111f-5878-ab1e-185364afe411"
+TSne = "24678dba-d5e9-5843-a4c6-250288b04835"
